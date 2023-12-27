@@ -1,0 +1,15 @@
+{
+    "short_name": "Velocraze",
+    "name": "Velocraze",
+    "icons": [
+      {
+        "src": "Icon.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "black",
+    "display": "standalone",
+    "theme_color": "black"
+  }
